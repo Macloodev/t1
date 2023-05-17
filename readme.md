@@ -12,6 +12,8 @@ LICENSE: [MIT](./license.md)
 1. **[git config](./config.md)**
 2. **[git add](./add.md)**
 3. **[git init](./init.md)**
+4. **[git commit](./commit.md)**
+5. **[git clone](./clone.md)**
 
 ---
 
