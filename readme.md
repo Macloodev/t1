@@ -20,6 +20,11 @@ LICENSE: [MIT](./license.md)
 ### <p style="text-align: center;" >  Команды для кооперативной разработки : 
  
  1. **[git remote add](./coop/remoteadd.md)**
+ 2. **[git fetch](./coop/fetch.md)**
+ 3. **[git merge](./coop/merge.md)**
+ 4. **[git pull](./coop/pull.md)**
+ 5. **[git push](./coop/push.md)**
+
 
 ---
 GIT logo by Jason Long. http://git-scm.com/downloads/logos, license [CC BY 3.0](creativecommons.org/license/by/3.0/)
