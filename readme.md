@@ -33,5 +33,10 @@ LICENSE: [MIT](./license.md)
 2. **[git log](./additional/log.md)**
 3. **[git show](./additional/show.md)**
 
+
 ---
 GIT logo by Jason Long. http://git-scm.com/downloads/logos, license [CC BY 3.0](creativecommons.org/license/by/3.0/)
+
+Совместная работа `Deco` & `keepkilay`:
+github.com/Macloodev
+github.com/keepkilay
