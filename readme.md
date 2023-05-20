@@ -24,7 +24,7 @@ LICENSE: [MIT](./license.md)
  3. **[git merge](./coop/merge.md)**
  4. **[git pull](./coop/pull.md)**
  5. **[git push](./coop/push.md)**
- 6. **[git branch](./coop/branch.md)***
+ 6. **[git branch](./coop/branch.md)**
 
 
 ---
