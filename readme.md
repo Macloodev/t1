@@ -26,6 +26,12 @@ LICENSE: [MIT](./license.md)
  5. **[git push](./coop/push.md)**
  6. **[git branch](./coop/branch.md)**
 
+---
+
+### <p style="text-align: center;"> Получение данных о состоянии репозитория:
+1. [git status](./additional/status.md)
+2. [git log](./additional/log.md)
+3. [git show](./additional/show.md)
 
 ---
 GIT logo by Jason Long. http://git-scm.com/downloads/logos, license [CC BY 3.0](creativecommons.org/license/by/3.0/)
