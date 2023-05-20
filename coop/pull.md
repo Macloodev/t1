@@ -1,5 +1,5 @@
-[<К содержанию](../readme.md)
+[< К содержанию](../readme.md)
 
 # git pull
 
-**`git pull`** является объединением двух последовательных команд [git fetch](./fetch.md) и [git merge](./merge.md)
+**`git pull`** является объединением двух последовательных команд **[git fetch](./fetch.md)** и **[git merge](./merge.md)**
