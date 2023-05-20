@@ -19,7 +19,7 @@ LICENSE: [MIT](./license.md)
 
 ### <p style="text-align: center;" >  Команды для кооперативной разработки : 
  
- 1. **[git remote add](./coop/remoteadd)**
+ 1. **[git remote add](./coop/remoteadd.md)**
 
 ---
 GIT logo by Jason Long. http://git-scm.com/downloads/logos, license [CC BY 3.0](creativecommons.org/license/by/3.0/)
