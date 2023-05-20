@@ -8,7 +8,7 @@ LICENSE: [MIT](./license.md)
 
 ---
 
-### <p style="text-align: center;" >Содержание:
+### <p style="text-align: center;" >Основные команды:
 1. **[git config](./main/config.md)**
 2. **[git add](./main/add.md)**
 3. **[git init](./main/init.md)**
